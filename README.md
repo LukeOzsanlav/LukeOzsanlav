@@ -7,3 +7,4 @@ I'm a PhD researcher at the University of Exeter working on the decline of migra
 - `Seabird_AvoidanceRates`: Calculating avoidance rates for collision risk modelling of seabird-windfarm interactions 
 - `AnimalBioMethods`: A method to classifying incubation in birds from biologging data
 - `Islay_LeadGeese`: Code and data from a MS investing lead ingestion in waterfowl
+- `GWfGMetapopDemography`: Code and data from a MS determining drivers of reproducitve success in an Arctic breeding goose species
