@@ -8,3 +8,4 @@ I'm a PhD student at the University of Exeter working on the decline of migrator
 - `AnimalBioMethods`: A method to classifying incubation in birds from biologging data
 - `Islay_LeadGeese`: Code and data from a MS investing lead ingestion in waterfowl
 - `GWfGMetapopDemography`: Code and data from a MS determining drivers of reproducitve success in an Arctic breeding goose species
+- `HMM_app`: Shiny app to fit hidden markov models to individual movement tracks
