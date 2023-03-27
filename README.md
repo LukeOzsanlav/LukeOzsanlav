@@ -9,6 +9,7 @@ I'm a PhD student at the University of Exeter working on the decline of migrator
 - `Islay_LeadGeese`: Code and data from a MS investing lead ingestion in waterfowl
 - `GWfGMetapopDemography`: Code and data from a MS determining drivers of reproducitve success in an Arctic breeding goose species
 - `HMM_app`: Shiny app to fit hidden markov models to individual movement tracks
+- `YBW_Vagrancy`: Code and data from a MS exploring the origins of vagrant Yellow-browed Warblers in the UK
 
 ## Apps
 - Explore fitting of hidden markov models to animal tracking data [link here](https://lukeozsanlav.shinyapps.io/hmm_explorer/)
