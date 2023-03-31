@@ -3,7 +3,7 @@
 ### Animal Movement 🐾
 ### Statisictal modelling 📊
 
-Click [here](https://www.researchgate.net/profile/Luke-Ozsanlav-Harris) to view me research
+### Click [here](https://www.researchgate.net/profile/Luke-Ozsanlav-Harris) to view my research
 
 <br/>
 
