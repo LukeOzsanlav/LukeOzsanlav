@@ -5,11 +5,8 @@
 
 <br/>
 
-### Click [here](https://www.researchgate.net/profile/Luke-Ozsanlav-Harris) to view my ResearchGate profile
-
-<br/>
-
 ## About me
+### Click [here](https://www.researchgate.net/profile/Luke-Ozsanlav-Harris) to view my ResearchGate profile
 I carried out a PhD at the University of Exeter to understand the decline of migratory waterfowl using biologging technology. You can find out more about this work from the University of Exeter [here](https://biosciences.exeter.ac.uk/staff/profile/index.php?web_id=Luke_Ozsanlav-Harris) and the Wildfowl and Wetlands Trust [here](https://www.wwt.org.uk/our-work/wetland-conservation-unit/meet-the-team/luke-ozsanlav-harris/).
 
 ## Projects
