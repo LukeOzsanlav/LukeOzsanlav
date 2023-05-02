@@ -5,20 +5,20 @@
 
 <br/>
 
-## About me
+## About me 👨‍🔬
 ### Click [here](https://www.researchgate.net/profile/Luke-Ozsanlav-Harris) to view my ResearchGate profile and [here](https://scholar.google.co.uk/citations?user=9VyBol4AAAAJ&hl=en) for my Google Scholar profile
 I carried out a PhD at the University of Exeter to understand the decline of migratory waterfowl using biologging technology. You can find out more about this work from the University of Exeter [here](https://biosciences.exeter.ac.uk/staff/profile/index.php?web_id=Luke_Ozsanlav-Harris) and the Wildfowl and Wetlands Trust [here](https://www.wwt.org.uk/our-work/wetland-conservation-unit/meet-the-team/luke-ozsanlav-harris/).
 
 ## [Publications](https://github.com/stars/LukeOzsanlav/lists/manuscripts)
-- `AnimalBioMethods`: A method to classifying incubation in birds from biologging data
+- AnimalBioMethods`: A method to classifying incubation in birds from biologging data
 - `Islay_LeadGeese`: Code and data from a MS investing lead ingestion in waterfowl
 - `GWfGMetapopDemography`: Code and data from a MS determining drivers of reproducitve success in an Arctic breeding goose species
 - `YBW_Vagrancy`: Code and data from a MS exploring the origins of vagrant Yellow-browed Warblers in the UK
 
 ## [Reports](https://github.com/stars/LukeOzsanlav/lists/reports)
-- [Seabird_AvoidanceRates](https://github.com/LukeOzsanlav/Seabird_AvoidanceRates): Calculating avoidance rates for collision risk modelling of seabird-windfarm interactions 
-- [Rum_Shearwater](https://github.com/LukeOzsanlav/Rum_Shearwater): Spatial analysis to estimate the size of the Isle of Rum Manx Shearwater Puffinus puffinus colony
+- [`Seabird_AvoidanceRates`](https://github.com/LukeOzsanlav/Seabird_AvoidanceRates): Calculating avoidance rates for collision risk modelling of seabird-windfarm interactions 
+- [`Rum_Shearwater`](https://github.com/LukeOzsanlav/Rum_Shearwater): Spatial analysis to estimate the size of the Isle of Rum Manx Shearwater Puffinus puffinus colony
 
 ## [Apps](https://github.com/stars/LukeOzsanlav/lists/shiny-apps)
-- HMM_app: Explore fitting of hidden markov models to animal tracking data [link here](https://lukeozsanlav.shinyapps.io/hmm_explorer/)
+- [HMM_app](https://github.com/LukeOzsanlav/HMM_App): Explore fitting of hidden markov models to animal tracking data [link here](https://lukeozsanlav.shinyapps.io/hmm_explorer/)
 - Processing and visualisation of animal tracking data [link here](https://lukeozsanlav.shinyapps.io/exmove_explorer/)
