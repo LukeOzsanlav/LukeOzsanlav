@@ -14,6 +14,8 @@ I carried out a PhD at the University of Exeter to understand the decline of mig
 - [`Islay_LeadGeese`](https://github.com/LukeOzsanlav/Islay_LeadGeese): Code and data from a MS investing lead ingestion in waterfowl
 - [`GWfGMetapopDemography`](https://github.com/LukeOzsanlav/GWfGMetapopDemography): Code and data from a MS determining drivers of reproducitve success in an Arctic breeding goose species
 - [`YBW_Vagrancy`](https://github.com/LukeOzsanlav/YBW_Vagrancy): Code and data from a MS exploring the origins of vagrant Yellow-browed Warblers in the UK
+- [`ExMove`](https://github.com/ExMove/ExMove) Processing and visualistion of animal tracking data methods guide
+
 ## [Reports](https://github.com/stars/LukeOzsanlav/lists/reports) 🚀
 - [`Seabird_AvoidanceRates`](https://github.com/LukeOzsanlav/Seabird_AvoidanceRates): Calculating avoidance rates for collision risk modelling of seabird-windfarm interactions 
 - [`Rum_Shearwater`](https://github.com/LukeOzsanlav/Rum_Shearwater): Spatial analysis to estimate the size of the Isle of Rum Manx Shearwater Puffinus puffinus colony
