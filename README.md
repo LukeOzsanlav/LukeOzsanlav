@@ -10,7 +10,7 @@
 
 I carried out a PhD at the University of Exeter to understand the decline of migratory waterfowl using biologging technology. You can find out more about this work from the University of Exeter [here](https://biosciences.exeter.ac.uk/staff/profile/index.php?web_id=Luke_Ozsanlav-Harris) and the Wildfowl and Wetlands Trust [here](https://www.wwt.org.uk/our-work/wetland-conservation-unit/meet-the-team/luke-ozsanlav-harris/).
 
-I am currently a post-doctoral researcher in the Centre for Research in Animal Behaviour at the University of Exeter. I am investigating the movement and wider dispersal of Commen Pheasants from both a game management perspepective and to limit dispersal into Protected Areas. 
+I am currently a post-doctoral researcher in the Centre for Research in Animal Behaviour at the University of Exeter. I am investigating the movement and wider dispersal of Commen Pheasants from both a game management perspeective and to limit dispersal into protected areas. 
 
 ## [Publications](https://github.com/stars/LukeOzsanlav/lists/manuscripts) 📚
 - [`AnimalBioMethods`](https://github.com/LukeOzsanlav/AnimalBioMethods): A method to classifying incubation in birds from biologging data
