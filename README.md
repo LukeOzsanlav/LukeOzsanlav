@@ -1,5 +1,5 @@
 # Luke Ozsanlav Harris's GitHub 
-### Post-doctoral Researcher
+### Postdoctoral Researcher @ University of Exeter
 ### Ornithology 🦢
 ### Animal Movement 🐾
 ### Statisictal modelling 📊
@@ -11,7 +11,7 @@
 
 I carried out a PhD at the University of Exeter to understand the decline of migratory waterfowl using biologging technology. You can find out more about this work from the University of Exeter [here](https://biosciences.exeter.ac.uk/staff/profile/index.php?web_id=Luke_Ozsanlav-Harris) and the Wildfowl and Wetlands Trust [here](https://www.wwt.org.uk/our-work/wetland-conservation-unit/meet-the-team/luke-ozsanlav-harris/).
 
-I am currently a post-doctoral researcher in the Centre for Research in Animal Behaviour at the University of Exeter. I am investigating the movement and wider dispersal of Commen Pheasants from both a game management perspeective and to limit dispersal into protected areas. 
+I am currently a post-doctoral researcher in the Centre for Research in Animal Behaviour at the University of Exeter. I am investigating the movement and wider dispersal of Common Pheasants *Phasianus colchicus* from both a game management perspective  and to limit dispersal into protected areas. 
 
 ## [Publications](https://github.com/stars/LukeOzsanlav/lists/manuscripts) 📚
 - [`AnimalBioMethods`](https://github.com/LukeOzsanlav/AnimalBioMethods): A method to classifying incubation in birds from biologging data
