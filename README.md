@@ -1,5 +1,5 @@
 # Luke Ozsanlav Harris's GitHub 
-### Postdoctoral Researcher @ University of Exeter
+### Postdoctoral Researcher - University of Exeter
 ### Ornithology 🦢
 ### Animal Movement 🐾
 ### Statisictal modelling 📊
