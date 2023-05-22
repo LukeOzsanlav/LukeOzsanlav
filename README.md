@@ -14,11 +14,11 @@ I carried out a PhD at the University of Exeter to understand the decline of mig
 I am currently a postdoctoral researcher in the Centre for Research in Animal Behaviour at the University of Exeter. I am investigating the movement and wider dispersal of Common Pheasants *Phasianus colchicus* from both a game management perspective  and to limit dispersal into protected areas. 
 
 ## [Publications](https://github.com/stars/LukeOzsanlav/lists/manuscripts) 📚
-- [`AnimalBioMethods`](https://github.com/LukeOzsanlav/AnimalBioMethods): A method to classifying incubation in birds from biologging data
-- [`Islay_LeadGeese`](https://github.com/LukeOzsanlav/Islay_LeadGeese): Code and data from a MS investing lead ingestion in waterfowl
-- [`GWfGMetapopDemography`](https://github.com/LukeOzsanlav/GWfGMetapopDemography): Code and data from a MS determining drivers of reproducitve success in an Arctic breeding goose species
-- [`YBW_Vagrancy`](https://github.com/LukeOzsanlav/YBW_Vagrancy): Code and data from a MS exploring the origins of vagrant Yellow-browed Warblers in the UK
-- [`ExMove`](https://github.com/ExMove/ExMove) Processing and visualistion of animal tracking data methods guide
+- [`AnimalBioMethods`](https://github.com/LukeOzsanlav/AnimalBioMethods): A method for classifying incubation periods in birds from biologging data [doi.org/10.1186/s40317-022-00298-8](doi.org/10.1186/s40317-022-00298-8)
+- [`Islay_LeadGeese`](https://github.com/LukeOzsanlav/Islay_LeadGeese): Investing lead ingestion rates in managed waterfowl popualtion in Scotland [doi.org/10.1111/ibi.13210](doi.org/10.1111/ibi.13210)
+- [`GWfGMetapopDemography`](https://github.com/LukeOzsanlav/GWfGMetapopDemography): Determining drivers of reproducitve success in an Arctic breeding goose species (In Review)
+- [`YBW_Vagrancy`](https://github.com/LukeOzsanlav/YBW_Vagrancy): Exploring the origins of vagrant Yellow-browed Warblers in the UK (In Review)
+- [`ExMove`](https://github.com/ExMove/ExMove) Processing and visualistion of animal tracking data methods guide (In Review)
 
 ## [Reports](https://github.com/stars/LukeOzsanlav/lists/reports) 🚀
 - [`Seabird_AvoidanceRates`](https://github.com/LukeOzsanlav/Seabird_AvoidanceRates): Calculating avoidance rates for collision risk modelling of seabird-windfarm interactions 
