@@ -19,6 +19,7 @@ I am currently a postdoctoral researcher in the Centre for Research in Animal Be
 - [`GWfGMetapopDemography`](https://github.com/LukeOzsanlav/GWfGMetapopDemography): Drivers of reproducitve success in an Arctic breeding goose species [doi.org/10.1002/ece3.10281](doi.org/10.1002/ece3.10281)
 - [`YBW_Vagrancy`](https://github.com/LukeOzsanlav/YBW_Vagrancy): Exploring the origins of vagrant Yellow-browed Warblers in the UK (In Review)
 - [`ExMove`](https://github.com/ExMove/ExMove) Processing and visualistion of animal tracking data methods guide (In Review)
+- [`Islay_ShootingDisturbance`](https://github.com/LukeOzsanlav/Islay_ShootingDisturbance) - Impacts of shooting on wildfowl movement/energetics (In review)
 
 ## [Reports](https://github.com/stars/LukeOzsanlav/lists/reports) 🚀
 - [`Seabird_AvoidanceRates`](https://github.com/LukeOzsanlav/Seabird_AvoidanceRates): Calculating avoidance rates for collision risk modelling of seabird-windfarm interactions 
