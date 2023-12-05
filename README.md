@@ -30,4 +30,4 @@ I am currently a conservation scientist at the RSPB. I am investigating the driv
 
 ## [Apps](https://github.com/stars/LukeOzsanlav/lists/shiny-apps) ✨
 - [`HMM_app`](https://github.com/LukeOzsanlav/HMM_App): Explore fitting of hidden markov models to animal tracking data [link here](https://lukeozsanlav.shinyapps.io/hmm_explorer/)
-- Processing and visualisation of animal tracking data [link here](https://lukeozsanlav.shinyapps.io/exmove_explorer/)
+- [`ExMove`](https://github.com/ExMove/ExMove): Processing and visualisation of animal tracking data [link here](https://lukeozsanlav.shinyapps.io/exmove_explorer/)
