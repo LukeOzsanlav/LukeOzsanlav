@@ -25,9 +25,9 @@ I am currently a conservation scientist at the RSPB. I am investigating the driv
 - [`Islay_ShootingDisturbance`](https://github.com/LukeOzsanlav/Islay_ShootingDisturbance): Impacts of shooting on wildfowl movement/energetics (In review)
 
 ## [Reports](https://github.com/stars/LukeOzsanlav/lists/reports) 🚀
-- [`Seabird_AvoidanceRates`](https://github.com/LukeOzsanlav/Seabird_AvoidanceRates): Calculating avoidance rates for collision risk modelling of seabird-windfarm interactions 
+- [`Seabird_AvoidanceRates`](https://github.com/LukeOzsanlav/Seabird_AvoidanceRates): Calculating avoidance rates for collision risk modelling of seabird-windfarm interactions [link to report](https://hub.jncc.gov.uk/assets/de5903fe-81c5-4a37-a5bc-387cf704924d)
 - [`Rum_Shearwater`](https://github.com/LukeOzsanlav/Rum_Shearwater): Spatial analysis to estimate the size of the Isle of Rum Manx Shearwater Puffinus puffinus colony
 
 ## [Apps](https://github.com/stars/LukeOzsanlav/lists/shiny-apps) ✨
-- [`HMM_app`](https://github.com/LukeOzsanlav/HMM_App): Explore fitting of hidden markov models to animal tracking data [link here](https://lukeozsanlav.shinyapps.io/hmm_explorer/)
-- [`ExMove`](https://github.com/ExMove/ExMove): Processing and visualisation of animal tracking data [link here](https://lukeozsanlav.shinyapps.io/exmove_explorer/)
+- [`HMM_app`](https://github.com/LukeOzsanlav/HMM_App): Explore fitting of hidden markov models to animal tracking data [link to app](https://lukeozsanlav.shinyapps.io/hmm_explorer/)
+- [`ExMove`](https://github.com/ExMove/ExMove): Processing and visualisation of animal tracking data [link to app](https://lukeozsanlav.shinyapps.io/exmove_explorer/)
