@@ -16,7 +16,7 @@ I carried out a PhD at the University of Exeter to understand the decline of mig
 I am currently a conservation scientist at the RSPB. I am investigating the drivers of lowland breeding wader populations in order to predict which future conservation scenarios would maximise the benefits to breeding populations.
 
 
-## [Publications](https://github.com/stars/LukeOzsanlav/lists/manuscripts) 📚
+## [Publication Repos](https://github.com/stars/LukeOzsanlav/lists/manuscripts) 📚
 - [`AnimalBioMethods`](https://github.com/LukeOzsanlav/AnimalBioMethods): A method for classifying incubation periods in birds from biologging data [doi.org/10.1186/s40317-022-00298-8](https://doi.org/10.1186/s40317-022-00298-8)
 - [`Islay_LeadGeese`](https://github.com/LukeOzsanlav/Islay_LeadGeese): Investing lead ingestion rates in managed waterfowl popualtion in Scotland [doi.org/10.1111/ibi.13210](https://doi.org/10.1111/ibi.13210)
 - [`GWfGMetapopDemography`](https://github.com/LukeOzsanlav/GWfGMetapopDemography): Drivers of reproducitve success in an Arctic breeding goose species [doi.org/10.1002/ece3.10281](https://doi.org/10.1002/ece3.10281)
