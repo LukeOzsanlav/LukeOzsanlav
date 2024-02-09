@@ -26,7 +26,7 @@ I am currently a conservation scientist at the RSPB. I am investigating the driv
 
 ## [Reports](https://github.com/stars/LukeOzsanlav/lists/reports) 🚀
 - [`Seabird_AvoidanceRates`](https://github.com/LukeOzsanlav/Seabird_AvoidanceRates): Calculating avoidance rates for collision risk modelling of seabird-windfarm interactions [link to report](https://hub.jncc.gov.uk/assets/de5903fe-81c5-4a37-a5bc-387cf704924d)
-- [`Rum_Shearwater`](https://github.com/LukeOzsanlav/Rum_Shearwater): Spatial analysis to estimate the size of the Isle of Rum Manx Shearwater Puffinus puffinus colony
+- [`Rum_Shearwater`](https://github.com/LukeOzsanlav/Rum_Shearwater): Spatial analysis to estimate the size of the Isle of Rum Manx Shearwater Puffinus puffinus colony [link to report](https://www.mpa-management.eu/wp-content/uploads/2023/06/Surveys-of-Breeding-Cliff-nesting-Seabirds-Ground-nesting-Seabirds-and-Burrow-nesting-Seabirds-in-Western-Scotland.pdf)
 
 ## [Apps](https://github.com/stars/LukeOzsanlav/lists/shiny-apps) ✨
 - [`HMM_app`](https://github.com/LukeOzsanlav/HMM_App): Explore fitting of hidden markov models to animal tracking data [link to app](https://lukeozsanlav.shinyapps.io/hmm_explorer/)
