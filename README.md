@@ -18,9 +18,9 @@ I carried out a PhD at the University of Exeter to understand the decline of mig
 - [`AnimalBioMethods`](https://github.com/LukeOzsanlav/AnimalBioMethods): A method for classifying incubation periods in birds from biologging data [doi.org/10.1186/s40317-022-00298-8](https://doi.org/10.1186/s40317-022-00298-8)
 - [`Islay_LeadGeese`](https://github.com/LukeOzsanlav/Islay_LeadGeese): Investing lead ingestion rates in managed waterfowl popualtion in Scotland [doi.org/10.1111/ibi.13210](https://doi.org/10.1111/ibi.13210)
 - [`GWfGMetapopDemography`](https://github.com/LukeOzsanlav/GWfGMetapopDemography): Drivers of reproducitve success in an Arctic breeding goose species [doi.org/10.1002/ece3.10281](https://doi.org/10.1002/ece3.10281)
-- [`YBW_Vagrancy`](https://github.com/LukeOzsanlav/YBW_Vagrancy): Exploring the origins of vagrant Yellow-browed Warblers in the UK (In review)
-- [`ExMove`](https://github.com/ExMove/ExMove): Processing and visualistion of animal tracking data methods guide (In review)
+- [`ExMove`](https://github.com/ExMove/ExMove): Processing and visualistion of animal tracking data methods guide [https://doi.org/10.1111/1365-2656.14111](https://doi.org/10.1111/1365-2656.14111)
 - [`Islay_ShootingDisturbance`](https://github.com/LukeOzsanlav/Islay_ShootingDisturbance): Impacts of shooting on wildfowl movement/energetics (In review)
+- [`YBW_Vagrancy`](https://github.com/LukeOzsanlav/YBW_Vagrancy): Exploring the origins of vagrant Yellow-browed Warblers in the UK (In review)
 
 ## [Reports](https://github.com/stars/LukeOzsanlav/lists/reports) 🚀
 - [`Seabird_AvoidanceRates`](https://github.com/LukeOzsanlav/Seabird_AvoidanceRates): Calculating avoidance rates for collision risk modelling of seabird-windfarm interactions [link to report](https://hub.jncc.gov.uk/assets/de5903fe-81c5-4a37-a5bc-387cf704924d)
