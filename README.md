@@ -19,7 +19,7 @@ I carried out a PhD at the University of Exeter to understand the decline of mig
 - [`Islay_LeadGeese`](https://github.com/LukeOzsanlav/Islay_LeadGeese): Investing lead ingestion rates in managed waterfowl in Scotland [doi.org/10.1111/ibi.13210](https://doi.org/10.1111/ibi.13210)
 - [`GWfGMetapopDemography`](https://github.com/LukeOzsanlav/GWfGMetapopDemography): Drivers of reproducitve success in Arctic breeding White-fronted Geese [doi.org/10.1002/ece3.10281](https://doi.org/10.1002/ece3.10281)
 - [`ExMove`](https://github.com/ExMove/ExMove): Methods guide for processing and visualistion of animal tracking data [https://doi.org/10.1111/1365-2656.14111](https://doi.org/10.1111/1365-2656.14111)
-- [`Islay_ShootingDisturbance`](https://github.com/LukeOzsanlav/Islay_ShootingDisturbance): Impacts of shooting on wildfowl movement, energetics and habitat use (In press)
+- [`Islay_ShootingDisturbance`](https://github.com/LukeOzsanlav/Islay_ShootingDisturbance): Impacts of shooting on wildfowl movement, energetics and habitat use [https://doi.org/10.1002/eap.3032](https://doi.org/10.1002/eap.3032)
 - [`YBW_Vagrancy`](https://github.com/LukeOzsanlav/YBW_Vagrancy): Exploring the origins of vagrant Yellow-browed Warblers in the UK (In review)
 
 ## [Reports](https://github.com/stars/LukeOzsanlav/lists/reports) 🚀
