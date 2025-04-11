@@ -1,9 +1,9 @@
 # Luke Ozsanlav Harris's GitHub 
-### Flyways Science Officer - BirdLife
+### Flyways Science Officer - BirdLife International
 
-### Ornithology 🦢
-### Statisictal modelling 📊
-### Animal Movement 🐾
+#### Ornithology 🦢
+#### Statisictal modelling 📊
+#### Animal Movement 🐾
 
 
 <br/>
@@ -11,7 +11,7 @@
 ## About me 👨‍🔬
 #### Click [here](https://scholar.google.co.uk/citations?user=9VyBol4AAAAJ&hl=en) for my Google Scholar profile
 
-I carried out a PhD at the University of Exeter to understand the decline of migratory waterfowl using biologging technology. Currently I carry out scientific and technical work for the global flyways programme at BirdLife international.
+Currently I carry out scientific and technical work for the global flyways programme at BirdLife international. In the past I have carried out a variety of work on animal movement, populaiton demography and migration. In the past I did a PhD at the University of Exeter to understand the decline of Greenland White-fronted Goose using biologging technology. 
 
 
 ## [Publication Repositories](https://github.com/stars/LukeOzsanlav/lists/manuscripts) 📚
