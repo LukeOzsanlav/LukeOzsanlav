@@ -1,10 +1,4 @@
 # Luke Ozsanlav Harris's GitHub 
-
-#### Ornithology 🦢
-#### Statisictal modelling 📊
-#### Animal Movement 🐾
-
-
 <br/>
 
 ## About me 👨‍🔬
